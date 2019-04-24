@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python">
+
 # Bayesian Network Learning
 
 ## Learning Bayesian Network Parameters
@@ -15,6 +17,7 @@ hyperparameters (Bayesian Updating).
 
 
 ## Learning Bayesian Network Structure
+
 
 It is also possible to machine learn the structure of a Bayesian network, and 
 two families of methods are available for that purpose. 
