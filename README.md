@@ -1,9 +1,13 @@
 <img src="https://img.shields.io/badge/language-R-a4c42d.svg?style=plastic" alt="made with R"> <img src="https://img.shields.io/badge/learning%20network-Bayesian-2980b9.svg?style=plastic" alt="made with R">
 
 
-# Bayesian Network Learning
+# Bayesian Network
+
+
+![bnlearn](https://cdn-images-1.medium.com/max/800/1*9OsQV0PqM2juaOtGqoRISw.jpeg)
 
 ## Learning Bayesian Network Parameters
+
 
 Given a qualitative Bayesian network structure, 
 the conditional probability tables, P(xi|pai), are typically estimated with 
