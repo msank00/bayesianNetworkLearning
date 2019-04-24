@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/made%20with-R-a4c42d.svg?style=flat-square" alt="made with R">
-<img src="https://img.shields.io/badge/learning%20network-Bayesian-2980b9.svg?style=flat-square" alt="made with R">
+<img src="https://img.shields.io/badge/language-R-a4c42d.svg?style=plastic" alt="made with R"> <img src="https://img.shields.io/badge/learning%20network-Bayesian-2980b9.svg?style=plastic" alt="made with R">
 
 
 # Bayesian Network Learning
